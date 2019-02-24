@@ -1,0 +1,10 @@
+{
+  "name": "mock",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
